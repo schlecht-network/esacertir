@@ -1,0 +1,5 @@
+Linux:
+ - geckodriver
+
+Python:
+ - selenium
